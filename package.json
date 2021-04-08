@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tchiinhemba/tchiinhemba.github.io/issues"
   },
-  "homepage": "https://github.com/tchiinhemba/tchiinhemba.github.io#readme"
+  "homepage": "https://github.com/tchiinhemba/tchiinhemba.github.io#readme",
+  "dependencies": {
+    "boxicons": "^2.0.7"
+  }
 }
