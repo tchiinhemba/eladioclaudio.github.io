@@ -13,12 +13,13 @@
   --font-bold: 700;
 
   /* ============= Colours ============= */
-  --first-color: #cc4b2c;
-  --first-color-dark: #662616;
-  --first-color-darken: #290f09;
-  --text-color: #54423d;
-  --first-color-light: #eae7e6;
-  --first-color-lighten: #fffafa;
+  --first-color: #CB997E;
+  --first-color-dark: #DDBEA9;
+  --first-color-darken: #FFE8D6;
+  --text-color: #B7B7A4;
+  --first-color-light: #A5A58D;
+  --first-color-lighten: #6B705C;
+  --hover-works: rgba( 165, 165, 141, .7);
 
   /* ============= Font ans Typography ============= */
   --body-font: "Poppins", sans-serif;
@@ -569,7 +570,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgba( 204, 75, 44, .7);
+  background: var(--hover-works);
   border-radius: .5rem;
   transition: .3s; 
 }
