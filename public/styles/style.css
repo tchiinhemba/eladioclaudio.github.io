@@ -807,3 +807,18 @@ img {
     grid-template-columns: repeat(3,1fr);
   }
 }
+
+
+/* =========Thank page========== */
+
+.thank-body {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--first-color);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
